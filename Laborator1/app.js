@@ -1,6 +1,5 @@
 console.log("# Conditional Constructions in JavaScript - Exercises \n## Task 1: Simple If Statement Write a program that checks if a number is positive and logs Positive or Not positive.");
 let number = 5;
-
 if (number >= 0) {
     console.log(number,"Positive");
 } else {
